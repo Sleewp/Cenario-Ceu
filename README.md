@@ -1,6 +1,6 @@
 <h3>Nome: Samuel e Kauan | Turma:2ºJogos | Turma B </h3>
                                                 
-# Cenario-Aline
+# Cenario-Céu
 
 <br>
 <h3>Nossa ideia foi fazer uma cena no céu (acima das nuvens) e mostrar um lugar repleto de riquezas.</h3>
